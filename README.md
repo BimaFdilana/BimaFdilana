@@ -1,4 +1,6 @@
-<h1 align="center">Howdy! 👋, I'm Bima Fadi Lana`</h1>
+<div class="row">
+        <div class="column">
+                <h1 align="center">Howdy! 👋, I'm Bima Fadi Lana`</h1>
 <h3 align="center">✨ | Transforming Ideas into Reality | ✨</h3>
 
 
@@ -81,3 +83,5 @@
                 alt="photoshop" width="40" height="40" /></a>
     </th>
 </tr>
+        </div>
+</div>
