@@ -84,7 +84,4 @@
     </th>
 </tr>
         </div>
-        <div class="column">
-                <p>isadhasdkaskdjaskdjaskdjkasjdkajsdk</p>
-        </div>
 </div>
