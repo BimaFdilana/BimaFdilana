@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter And Dart Language**
 
-- 📫 How to reach me **Bima.fadilana01@gmail.com**
+- 📫 How to reach me **Bfadilana@gmail.com**
 
 - ⚡ Fun fact **I really like peanut butter toast**
 
