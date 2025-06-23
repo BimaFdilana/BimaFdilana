@@ -6,7 +6,7 @@
          src="https://komarev.com/ghpvc/?username=bimafdilana&label=Profile%20views&color=0e75b6&style=flat"
          alt="bimafdilana" /> </p>
  
- - 🌱 I’m currently learning **Flutter And Dart Language**
+ - 🌱 I’m currently learning **Programming Language**
  
  - 📫 How to reach me **Bfadilana@gmail.com**
  
