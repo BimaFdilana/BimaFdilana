@@ -8,8 +8,6 @@
          src="https://komarev.com/ghpvc/?username=bimafdilana&label=Profile%20views&color=0e75b6&style=flat"
          alt="bimafdilana" /> </p>
 
-<h5 align="left">Hello World!!</h5>
-
 ###
 
 <h3 align="center">✨ | Transforming Ideas into Reality | ✨</h3>
@@ -76,11 +74,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BimaFdilana/count.svg?"  />
-</div>
 
 ###
 
