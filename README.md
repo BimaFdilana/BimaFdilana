@@ -71,6 +71,6 @@
   <a href="https://www.instagram.com/bimbom8_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
-    <img src="https://img.shields.io/static/v1?message=BIMA FD&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Bima&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
 </div>
 
